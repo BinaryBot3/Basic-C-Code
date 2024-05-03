@@ -4,7 +4,6 @@ int main()
 {
     double weight_kg;
     double weight_pd;
-
     cout << "Please enter your weight in kilograms : ";
     cin >> weight_kg;
 
